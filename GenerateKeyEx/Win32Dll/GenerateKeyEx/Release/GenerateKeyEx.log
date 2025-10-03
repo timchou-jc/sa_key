@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  seedNKeyDiag.cpp
+C:\Users\J018\Downloads\Diagnostics\GenerateKeyEx\Win32Dll\GenerateKeyEx\seedNKeyDiag.cpp(14,9): warning C4005: 'OPENSSL_NO_DYNAMIC_ENGINE': 巨集重複定義
+      C:\Users\J018\Downloads\Diagnostics\GenerateKeyEx\Win32Dll\GenerateKeyEx\seedNKeyDiag.cpp(14,9):
+      'OPENSSL_NO_DYNAMIC_ENGINE' 先前已在命令列中宣告
+  
+C:\Users\J018\Downloads\Diagnostics\GenerateKeyEx\Win32Dll\GenerateKeyEx\seedNKeyDiag.cpp(16,9): warning C4005: 'OPENSSL_USE_STATIC_LIBS': 巨集重複定義
+      C:\Users\J018\Downloads\Diagnostics\GenerateKeyEx\Win32Dll\GenerateKeyEx\seedNKeyDiag.cpp(16,9):
+      'OPENSSL_USE_STATIC_LIBS' 先前已在命令列中宣告
+  
+     正在建立程式庫 C:\Users\J018\Downloads\Diagnostics\GenerateKeyEx\Win32Dll\GenerateKeyEx\\x86\Release\GenerateKeyEx.lib 和物件 C:\Users\J018\Downloads\Diagnostics\GenerateKeyEx\Win32Dll\GenerateKeyEx\\x86\Release\GenerateKeyEx.exp
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\J018\Downloads\Diagnostics\GenerateKeyEx\Win32Dll\GenerateKeyEx\seedNKeyDiag.cpp(267): warning C4715: 'GenerateKeyEx': 不是所有控制路徑都傳回值
+  已完成程式碼產生
+  GenerateKeyEx.vcxproj -> C:\Users\J018\Downloads\Diagnostics\GenerateKeyEx\Win32Dll\GenerateKeyEx\x86\Release\GenerateKeyEx.dll
+  'pwsh.exe' 不是內部或外部命令、可執行的程式或批次檔。

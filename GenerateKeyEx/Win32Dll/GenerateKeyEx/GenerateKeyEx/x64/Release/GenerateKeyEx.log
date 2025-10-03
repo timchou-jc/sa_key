@@ -1,0 +1,2 @@
+﻿  seedNKeyDiag.cpp
+C:\Users\J018\Downloads\Diagnostics\GenerateKeyEx\Win32Dll\GenerateKeyEx\seedNKeyDiag.cpp(15,10): error C1083: 無法開啟包含檔案: 'openssl/cmac.h': No such file or directory

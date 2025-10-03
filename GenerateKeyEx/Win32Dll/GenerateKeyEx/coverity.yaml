@@ -1,0 +1,6 @@
+analyze:
+  location: local
+commit:
+  connect:
+    stream: GenerateKeyEx
+    url: https://192.168.4.102:8443
