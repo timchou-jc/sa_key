@@ -4,7 +4,7 @@
 /// @responsible author
 /// @brief       DLL-Main for Seed'n Key for XCP
 /// @history     2002-09-16,Lr: - draft
-///              2003-02-07,Lr: - DLL-API using extern "C"
+///              2003-02-07,Lr: - DLL-API using extern "C" 
 ///                             - adapted privileges to XCP-Spec V1.0,Rev22
 //*****************************************************************************
 
@@ -287,3 +287,4 @@ KEYGEN_API SeedAndKey_Type3(void* ASeed, void* AKey)
 {
 	return KGRE_Ok;
 }
+
