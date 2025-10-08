@@ -8,7 +8,7 @@
 ///                             - adapted privileges to XCP-Spec V1.0,Rev22
 //*****************************************************************************
 #ifndef SEED_N_KEY_DIAGNOSTIC_H
-#define SEED_N_KEY_DIAGNOSTIC_H
+#define SEED_N_KEY_DIAGNOSTIC_H 
 
 //*****************************************************************************
 //                               includes
@@ -40,3 +40,4 @@ KEYGEN_API GenerateKeyEx(
 	unsigned int& oActualKeyArraySize);        /* Length of the key [out] */
 
 #endif
+
